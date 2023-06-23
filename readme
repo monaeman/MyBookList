@@ -1,0 +1,25 @@
+
+
+#### MyBookList App
+
+The MyBookList app is a simple web application that allows users to add and remove books from a list. It is built using HTML, CSS, and JavaScript.
+
+
+###### Features
+
+Add a book by entering the title, author, and ISBN number in the provided input fields and clicking the "Add Book" button.
+View the list of added books with their corresponding title, author, and ISBN number.
+Remove a book from the list by clicking the "X" button next to it.
+
+###### local storge
+The MyBookList app uses local storage to store the added books. This means that the added books will be stored in the browser's local storage
+
+
+###### Acknowledgements
+ * Font Awesome
+ * Bootstrap
+
+
+#### Research 
+used W3 School website to better understand concepts such as appendChild , querySelect , etc.. 
+https://www.w3schools.com/jsref/met_node_appendchild.asp
